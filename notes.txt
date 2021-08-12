@@ -1,2 +1,15 @@
 api key
 248f8e0c9068fd287bbbac0b4562cabf
+
+weather coniditons
+clear sky
+few clouds
+overcast clouds
+drizzle
+rain
+shower rain
+thunderstorm
+snow
+mist
+
+http://openweathermap.org/img/wn/10d@2x.png
